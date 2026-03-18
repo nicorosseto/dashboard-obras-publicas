@@ -125,6 +125,11 @@ Este projeto demonstra como soluções de Business Intelligence podem ser aplica
 
 ---
 
+## 📌 Arquivo do Projeto
+O arquivo Power BI (.pbix) está disponível neste repositório para consulta da estrutura do dashboard, modelagem de dados e construção das análises.
+
+---
+
 ## 👨‍💻 Autor
 Nícolas Novais Rosseto  
 Analista de Dados | Power BI | Gestão Pública
